@@ -1,0 +1,6 @@
+<feature>
+	<library>Ericsson Library</library>
+	<system-area>LTE</system-area>
+	<feature-name>Adhoc LTE</feature-name>
+	<datasource-guid>FFFFFFFF-FFFF-FFFF-FFFF-FFFFFFFFFFFF</datasource-guid>
+</feature>
